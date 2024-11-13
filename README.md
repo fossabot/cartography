@@ -71,6 +71,7 @@ When you are ready to try it in production, read [here](https://cartography-cncf
 ### Querying the database directly
 
 ![poweruser.png](docs/root/images/poweruser.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcartography-cncf%2Fcartography.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcartography-cncf%2Fcartography?ref=badge_shield)
 
 Now that data is in the graph, you can quickly start with our [querying tutorial](https://cartography-cncf.github.io/cartography/usage/tutorial.html). Our [data schema](https://cartography-cncf.github.io/cartography/usage/schema.html) is a helpful reference when you get stuck.
 
@@ -88,6 +89,9 @@ Directly querying Neo4j is already very useful as a sort of "swiss army knife" f
 ## License
 
 This project is licensed under the [Apache 2.0 License](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcartography-cncf%2Fcartography.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcartography-cncf%2Fcartography?ref=badge_large)
 
 ## Contributing
 Thank you for considering contributing to Cartography!
